@@ -1,5 +1,5 @@
 # TPN3-JSArreglosFunciones
-![Arrays+Functions](https://community-cdn-digitalocean-com.global.ssl.fastly.net/BebriT2xrVJ8BWivbHHzTxRH)
+![Arrays+Functions](https://www.adictosaltrabajo.com/wp-content/uploads/2018/05/el_remozado_javascript.imagen.jpg)
 
 
 ## Prácticas con arreglos y funciones
